@@ -1,4 +1,4 @@
-# Examination-Management-System
+
 
 from PySide6.QtWidgets import QApplication, QMainWindow, QStackedWidget, QPushButton, QWidget
 from PySide6.QtUiTools import QUiLoader
